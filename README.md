@@ -2,7 +2,7 @@
 
 - This is sample app for Shopify, which is used to store and display the email address of the user who subscribe to the newsletter.
 
-<img width="1440" alt="Screenshot 2023-08-25 at 12 14 15 AM" src="https://github.com/govindgoel/shopify-newsletter-app/assets/52847415/1e7bcb67-dde7-465d-918a-e2c74cb5f68b">
+<img width="1440" alt="Screenshot 2023-08-25 at 12 15 25 AM" src="https://github.com/govindgoel/shopify-newsletter-app/assets/52847415/2da7eae8-e07f-4e52-afba-2188d283af79">
 
 
 ### Demo:
